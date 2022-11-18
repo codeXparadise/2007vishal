@@ -10,11 +10,8 @@
 ## 🛠 Skills
 
 * Python
-
 * Networking
-
 * Command line interface
-
 * Hacking etc... 
 
 ## Certifications:-
@@ -26,6 +23,6 @@
 
 ![](https://raw.githubusercontent.com/2007vishal/2007vishal/main/mr__nobody__23-20221117-0004.webp)4th Certificate
 ## 🔗 Links
-[![instagram](https://img.shields.io/badge/My%20Instagram-000?style=for-the-badge&logo=ko-&logoColor=red)](https://www.instagram.com/mr__nobody__23/) 
+[![instagram](https://img.shields.io/badge/My%20Instagram%20Account-000?style=for-the-badge&logo=ko-&logoColor=red)](https://www.instagram.com/mr__nobody__23/) 
 
-## Target :- CYBERSECURITY_SPECIALIST 😎
+## CYBERSECURITY_SPECIALIST 😎

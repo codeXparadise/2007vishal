@@ -1,11 +1,11 @@
 # Hello, Itz me! 
-![](https://github.com/2007vishal/2007vishal/blob/main/Picsart_22-12-20_15-03-27-721.jpg) 
+![](https://photos.app.goo.gl/W9akbP2ZkZQ72BG36) 
 ## 🚀 About Me
 * Name  :-  <strong>Vishal Prajapati</strong>
-* OS  :-  <strong>Parrot sec</strong>
+* OS  :-  <strong>Parrot security | Kali linux</strong>
 * best in  :-  <strong>Python</strong>
-* I'm a CyberSecurity Student 👨‍💻...
-* I'm currently studying in 10th 🤞
+* Student of Computer Science & Financial Market 👨‍💻...
+* I'm currently studying in 12th 🤞
 
 ## 🛠 Skills
 
@@ -13,7 +13,7 @@
 * Networking
 * Digital Forensics
 * Command line interface
-* Hacking etc... 
+* Script kiddie... 
 
 ## Certifications:-
 ![](https://raw.githubusercontent.com/2007vishal/2007vishal/main/mr__nobody__23-20221117-0001.webp)1st Certificate

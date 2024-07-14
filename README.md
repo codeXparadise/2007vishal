@@ -1,5 +1,5 @@
 # Hello, Itz me! 
-![](https://photos.app.goo.gl/W9akbP2ZkZQ72BG36) 
+![](https://github.com/codeXparadise/AboutMe/myphoto.jpg) 
 ## 🚀 About Me
 * Name  :-  <strong>Vishal Prajapati</strong>
 * OS  :-  <strong>Parrot security | Kali linux</strong>
